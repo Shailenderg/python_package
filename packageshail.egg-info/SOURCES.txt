@@ -1,0 +1,6 @@
+setup.py
+packageshail/__init__.py
+packageshail.egg-info/PKG-INFO
+packageshail.egg-info/SOURCES.txt
+packageshail.egg-info/dependency_links.txt
+packageshail.egg-info/top_level.txt
